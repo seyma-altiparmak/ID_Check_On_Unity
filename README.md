@@ -1,0 +1,2 @@
+# ID_Check_On_Unity
+The project develops an identity verification mechanism by integrating Unity with Ethereum smart contracts, leveraging blockchain technology. It aims to demonstrate a decentralized approach to digital identity validation, highlighting features like immutability, enhanced security, and transparency, eliminating the need for central databases. Technologies are I used Unity (C#), Nethereum Web3 library, Ethereum Sepolia Testnet, Solidity Smart Contract via Remix, MetaMask Wallet, Infura for RPC access.
